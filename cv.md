@@ -37,7 +37,7 @@ ADOBE PHOTOSHOP|![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/im
 
 :ru: Russian - Native</br>
 🇧🇾 Belarusian - Intermediate</br>
-:uk: English - Elementary</br>
+![uk](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_United_Kingdom.png/1200px-Flag_of_the_United_Kingdom.png) English - Elementary</br>
 :de: Deutch - Beginner</br>
 
 ![Code](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/line-code.png)
