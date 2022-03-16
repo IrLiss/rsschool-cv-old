@@ -1,4 +1,3 @@
-<!--There will be a new project-->
 ![Briefly resume about me](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/resume-about.png)
 
 ### ABOUT ME
@@ -12,18 +11,24 @@ Working remotely gives me more free time to spend learning front-end development
 ![Education](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/line-education.png)
 
 ### EDUCATION
-Establishments| **SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL**| **COMPUTER ACADEMY IT STEP OF GOMEL**
+ESTABLISHMENTS| **SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL**| **COMPUTER ACADEMY IT STEP OF GOMEL**
 :---|:---:|:---:
-Years|*2010 - 2016*| *2014 - 2017*
-Faculties| Automation and Information Systems Faculty|Computer Graphics and Design
-Specilaities| Industrial Electronics|Design
-
+YEARS|*2010 - 2016*| *2014 - 2017*
+FACULTIES| Automation and Information Systems Faculty|Computer Graphics and Design
+SPECILAITIES| Industrial Electronics|Design
+</br>
 
 ![Skills](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/line-skills.png)
 
 ### SKILLS
+  
+ADOBE PHOTOSHOP|![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png)|HTML5 / CSS3|![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png)
+:---|:---|:---|:---
+**ADOBE ILLUSTRATOR**|![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png)|**JAVA SCRIPT**|![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png)
+**ADOBE LIGHTROOM**|![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png)|**GIT**|![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png)
+**ADOBE AFTER EFFECTS**|![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png)|**FIGMA**|![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-orange.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png) ![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/cicle-grey.png)
 
-![Skills](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/skills.png)
+<!--![Skills](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/skills.png)-->
 </br>
 
 ![Languages](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/line-languages.png)
@@ -34,7 +39,6 @@ Specilaities| Industrial Electronics|Design
 🇧🇾 Belarusian - Intermediate</br>
 :uk: English - Elementary</br>
 :de: Deutch - Beginner</br>
-</br>
 
 ![Code](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/line-code.png)
 
@@ -55,12 +59,15 @@ function peak(arr) {
   return -1;
 }
 ```
-
 </br>
 
 ![Hobbies](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/line-intrerest.png)
 
-### INTERESTS
+### HOBBIES
+
+<!--![Travelling](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/travelling.png)|![Sports](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/sports.png)|![Photography](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/photography.png)|![Reading](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/reading.png)
+:---:|:---:|:---:|:---:
+**TRAVELLING**|**SPORTS**|**PHOTOGRAPHY**|**READING**-->
 
 ![Hobbies](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/img/interest.png)
 </br>
