@@ -9,11 +9,11 @@ Working remotely gives me more free time to spend learning front-end development
 ![Education](/img/line-education.png)
 
 ### EDUCATION
-ESTABLISHMENTS| **SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL**| **COMPUTER ACADEMY IT STEP OF GOMEL**
-:---|:---:|:---:
-YEARS|*2010 - 2016*| *2014 - 2017*
-FACULTIES| Automation and Information Systems Faculty|Computer Graphics and Design
-SPECILAITIES| Industrial Electronics|Design
+|ESTABLISHMENTS|**SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL**|**COMPUTER ACADEMY IT STEP OF GOMEL**|
+|:---|:---:|:---:|
+|**YEARS**|2010 - 2016|2014 - 2017|
+|**FACULTIES**| Automation and Information Systems Faculty|Computer Graphics and Design|
+|**SPECILAITIES**| Industrial Electronics|Design|
 
 ![Skills](/img/line-skills.png)
 
@@ -70,5 +70,5 @@ function powersOfTwo(n){
 
 ### CONTACT ME
 
-[![Call me](/img/phone.png "Call me: +375296553810")](tel:+375296553810)|[![Email](/img/email.png "Email")](mailto:irpulka@gmail.com)|[![Telegram](/img/telegramm.png "Telegram")](https://t.me/IrLiss)|[![Discort](/img/discort.png "Discort: IriSha#7894")](https://discord.gg/uvPDKUSkxJ)|[![Behance](/img/behance.png "Behance")](https://www.behance.net/irlis)
-:---:|:---:|:---:|:---:|:---:
+|[![Call me](/img/phone.png "Call me: +375296553810")](tel:+375296553810)|[![Email](/img/email.png "Email")](mailto:irpulka@gmail.com)|[![Telegram](/img/telegramm.png "Telegram")](https://t.me/IrLiss)|[![Discort](/img/discort.png "Discort: IriSha#7894")](https://discord.gg/uvPDKUSkxJ)|[![Behance](/img/behance.png "Behance")](https://www.behance.net/irlis)|
+|:---:|:---:|:---:|:---:|:---:|
