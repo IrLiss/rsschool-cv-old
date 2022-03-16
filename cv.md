@@ -16,9 +16,6 @@ ESTABLISHMENTS|SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL|COMPUTER ACADEMY IT ST
 **FACULTIES**| Automation and Information Systems Faculty|Computer Graphics and Design
 **SPECILAITIES**| Industrial Electronics|Design
 
-||||
-|:---:|:---:|:---:|
-
 ![Skills](/img/line-skills.png)
 
 ### SKILLS
@@ -77,5 +74,5 @@ function powersOfTwo(n){
 [![Call me](/img/phone.png "Call me: +375296553810")](tel:+375296553810)|[![Email](/img/email.png "Email")](mailto:irpulka@gmail.com)|[![Telegram](/img/telegramm.png "Telegram")](https://t.me/IrLiss)|[![Discort](/img/discort.png "Discort: IriSha#7894")](https://discord.gg/uvPDKUSkxJ)|[![Behance](/img/behance.png "Behance")](https://www.behance.net/irlis)
 :---:|:---:|:---:|:---:|:---:
 
-||||||
+|[![](/img/phone.png "Call me: +375296553810")](tel:+375296553810)|[![](/img/email.png "Email")](mailto:irpulka@gmail.com)|[![](/img/telegramm.png "Telegram")](https://t.me/IrLiss)|[![](/img/discort.png "Discort: IriSha#7894")](https://discord.gg/uvPDKUSkxJ)|[![](/img/behance.png "Behance")](https://www.behance.net/irlis)|
 |:---:|:---:|:---:|:---:|:---:|
