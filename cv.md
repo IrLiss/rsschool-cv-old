@@ -5,8 +5,6 @@
 Hello! My name is Iryna Shapovalova.I'm freelance illustrator with 3+ years of experience. This work taught me to adapt to different customers and implement different creative ideas. I have improved skills to work with graphic tablet, became an advanced user of Photoshop and Illustrator.
 
 Working remotely gives me more free time to spend learning front-end development. I believe that excellent communication skills and an inquisitive mind will have help me become an experienced front-end developer.
-</br>
-</br>
 
 ![Education](/img/line-education.png)
 
@@ -16,7 +14,6 @@ ESTABLISHMENTS| **SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL**| **COMPUTER ACADE
 YEARS|*2010 - 2016*| *2014 - 2017*
 FACULTIES| Automation and Information Systems Faculty|Computer Graphics and Design
 SPECILAITIES| Industrial Electronics|Design
-</br>
 
 ![Skills](/img/line-skills.png)
 
@@ -29,16 +26,18 @@ ADOBE PHOTOSHOP|![Circle](/img/cicle-orange.png) ![Circle](/img/cicle-orange.png
 **ADOBE AFTER EFFECTS**|![Circle](/img/cicle-orange.png) ![Circle](/img/cicle-orange.png) ![Circle](/img/cicle-orange.png) ![Circle](/img/cicle-grey.png) ![Circle](/img/cicle-grey.png) ![Circle](/img/cicle-grey.png) ![Circle](/img/cicle-grey.png) ![Circle](/img/cicle-grey.png)|**FIGMA**|![Circle](/img/cicle-orange.png) ![Circle](/img/cicle-orange.png) ![Circle](/img/cicle-orange.png) ![Circle](/img/cicle-orange.png) ![Circle](/img/cicle-grey.png) ![Circle](/img/cicle-grey.png) ![Circle](/img/cicle-grey.png) ![Circle](/img/cicle-grey.png)
 
 <!--![Skills](/img/skills.png)-->
-</br>
 
 ![Languages](/img/line-languages.png)
 
 ### LANGUAGES
 
-🇷🇺 Russian - Native</br>
-🇧🇾 Belarusian - Intermediate</br>
-🇬🇧 English - Elementary</br>
-🇩🇪 Deutch - Beginner</br>
+🇷🇺 Russian - Native
+
+🇧🇾 Belarusian - Intermediate
+
+🇬🇧 English - Elementary
+
+🇩🇪 Deutch - Beginner
 
 ![Code](/img/line-code.png)
 
@@ -46,7 +45,7 @@ ADOBE PHOTOSHOP|![Circle](/img/cicle-orange.png) ![Circle](/img/cicle-orange.png
 
 CODEWARS: Complete the function that takes a non-negative integer n as input, and returns a list of all the powers of 2 with the exponent ranging from 0 to n (inclusive).
 
-```java scripts
+```
 function powersOfTwo(n){
     var result = []; 
         for (var i=0; i<= n; i++) {
@@ -55,7 +54,6 @@ function powersOfTwo(n){
         return result;
                        }
 ```
-</br>
 
 ![Hobbies](/img/line-intrerest.png)
 
@@ -66,8 +64,7 @@ function powersOfTwo(n){
 **TRAVELLING**|**SPORTS**|**PHOTOGRAPHY**|**READING**-->
 
 ![Hobbies](/img/interest.png)
-</br>
-</br>
+
 
 ![Contacts](/img/line-contact.png)
 
@@ -75,4 +72,3 @@ function powersOfTwo(n){
 
 [![Call me](/img/phone.png "Call me: +375296553810")](tel:+375296553810)|[![Email](/img/email.png "Email")](mailto:irpulka@gmail.com)|[![Telegram](/img/telegramm.png "Telegram")](https://t.me/IrLiss)|[![Discort](/img/discort.png "Discort: IriSha#7894")](https://discord.gg/uvPDKUSkxJ)|[![Behance](/img/behance.png "Behance")](https://www.behance.net/irlis)
 :---:|:---:|:---:|:---:|:---:
-</br>
