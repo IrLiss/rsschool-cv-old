@@ -44,20 +44,16 @@ ADOBE PHOTOSHOP|![Circle](https://github.com/IrLiss/rsschool-cv/blob/gh-pages/im
 
 ### CODE EXAMPLES
 
-Peak array index KATA from CODEWARS: Given an array of ints, return the index such that the sum of the elements to the right of that index equals the sum of the elements to the left of that index. If there is no such index, return -1. If there is more than one such index, return the left-most index.
+CODEWARS: Complete the function that takes a non-negative integer n as input, and returns a list of all the powers of 2 with the exponent ranging from 0 to n (inclusive).
 
 ```java scripts
-function peak(arr) {
-
-  for (let i = 1; i < arr.length - 1; i++) {
-    let leftSum = arr.slice(0, i).reduce((accumulator, currentValue) => accumulator + currentValue);
-    let rightSum = arr.slice(i + 1).reduce((accumulator, currentValue) => accumulator + currentValue);
-    if (leftSum === rightSum) {
-      return i;
-    }
-  }
-  return -1;
-}
+function powersOfTwo(n){
+    var result = []; 
+        for (var i=0; i<= n; i++) {
+                                   result.push(2**i);
+                                  }
+        return result;
+                       }
 ```
 </br>
 
