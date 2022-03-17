@@ -71,6 +71,6 @@ function powersOfTwo(n){
 
 ### CONTACT ME
 
-Phone|Mail|Telegram|Discort|Behance
-:---:|:---:|:---:|:---:|:---:|
-[![Call me](/rsschool-cv/img/phone.png "Call me: +375296553810")](tel:+375296553810)|[![Email](/rsschool-cv/img/email.png "Email")](mailto:irpulka@gmail.com)|[![Telegram](/rsschool-cv/img/telegramm.png "Telegram")](https://t.me/IrLiss)|[![Discort](/rsschool-cv/img/discort.png "Discort: IriSha#7894")](https://discord.gg/uvPDKUSkxJ)|[![Behance](/rsschool-cv/img/behance.png "Behance")](https://www.behance.net/irlis)
+[![Call me](/rsschool-cv/img/phone.png "Call me: +375296553810")](tel:+375296553810)|+375296553810|[![Email](/rsschool-cv/img/email.png "Email")](mailto:irpulka@gmail.com)|irpulka@gmail.com
+:---:|:---:|:---:|:---:
+[![Telegram](/rsschool-cv/img/telegramm.png "Telegram")](https://t.me/IrLiss)|[![Discort](/rsschool-cv/img/discort.png "Discort: IriSha#7894")](https://discord.gg/uvPDKUSkxJ)|[![Behance](/rsschool-cv/img/behance.png "Behance")](https://www.behance.net/irlis)|[![GitHub](/rsschool-cv/img/github.png "GitHub")](https://github.com/IrLiss)
