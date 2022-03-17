@@ -32,13 +32,13 @@ ADOBE PHOTOSHOP|![Circle](/img/cicle-orange.png) ![Circle](/img/cicle-orange.png
 
 ### LANGUAGES
 
-+ 🇷🇺 Russian - Native
+![RU](/img/ru-icon.png) Russian - Native
 
-+ 🇧🇾 Belarusian - Intermediate
+![BY](/img/by-icon.png) Belarusian - Intermediate
 
-+ 🇬🇧 English - Elementary
+![UK](/img/uk-icon.png) English - Elementary
 
-+ 🇩🇪 Deutch - Beginner
+![DE](/img/de-icon.png) Deutch - Beginner
 
 ![Code](/img/line-code.png)
 
@@ -71,8 +71,6 @@ function powersOfTwo(n){
 
 ### CONTACT ME
 
-<!--[![Call me](/img/phone.png "Call me: +375296553810")](tel:+375296553810)|[![Email](/img/email.png "Email")](mailto:irpulka@gmail.com)|[![Telegram](/img/telegramm.png "Telegram")](https://t.me/IrLiss)|[![Discort](/img/discort.png "Discort: IriSha#7894")](https://discord.gg/uvPDKUSkxJ)|[![Behance](/img/behance.png "Behance")](https://www.behance.net/irlis)
-:---:|:---:|:---:|:---:|:---:-->
-
-[![Call me](/img/phone.png)](tel:+375296553810)|[![Email](/img/email.png)](mailto:irpulka@gmail.com)|[![Telegram](/img/telegramm.png)](https://t.me/IrLiss)|[![Discort](/img/discort.png)](https://discord.gg/uvPDKUSkxJ)|[![Behance](/img/behance.png)](https://www.behance.net/irlis)
-:---:|:---:|:---:|:---:|:---:
+Phone|Mail|Telegram|Discort|Behance
+:---:|:---:|:---:|:---:|:---:|
+[![Call me](/rsschool-cv/img/phone.png "Call me: +375296553810")](tel:+375296553810)|[![Email](/rsschool-cv/img/email.png "Email")](mailto:irpulka@gmail.com)|[![Telegram](/rsschool-cv/img/telegramm.png "Telegram")](https://t.me/IrLiss)|[![Discort](/rsschool-cv/img/discort.png "Discort: IriSha#7894")](https://discord.gg/uvPDKUSkxJ)|[![Behance](/rsschool-cv/img/behance.png "Behance")](https://www.behance.net/irlis)
