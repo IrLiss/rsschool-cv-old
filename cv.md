@@ -71,5 +71,6 @@ function powersOfTwo(n){
 
 ### CONTACT ME
 
-[![Call me](/img/phone.png "Call me: +375296553810")](tel:+375296553810)|[![Email](/img/email.png "Email")](mailto:irpulka@gmail.com)|[![GitHub](/img/github.png "GitHub")](https://github.com/IrLiss)|[![Telegram](/img/telegramm.png "Telegram")](https://t.me/IrLiss)|[![Discort](/img/discort.png "Discort: IriSha#7894")](https://discord.gg/uvPDKUSkxJ)|[![Behance](/img/behance.png "Behance")](https://www.behance.net/irlis)
-:---:|:---:|:---:|:---:|:---:|:---:
+[![Call me](/img/phone.png "Call me: +375296553810")](tel:+375296553810)|[![Email](/img/email.png "Email")](mailto:irpulka@gmail.com)|[![GitHub](/img/github.png "GitHub")](https://github.com/IrLiss)
+:---:|:---:|:---:
+[![Telegram](/img/telegramm.png "Telegram")](https://t.me/IrLiss)|[![Discort](/img/discort.png "Discort: IriSha#7894")](https://discord.gg/uvPDKUSkxJ)|[![Behance](/img/behance.png "Behance")](https://www.behance.net/irlis)
