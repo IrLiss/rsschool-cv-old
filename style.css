@@ -6,6 +6,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     width: 1080px;
+    margin: 50px auto;
 }
 
 header {
@@ -67,6 +68,7 @@ header {
     padding-left: 400px;
     position: absolute;
     top: 15em;
+    margin-top: 30px;
 }
 
 .local,
@@ -103,16 +105,18 @@ h2 {
     text-transform: uppercase;
     color: #464e62;
     text-align: center;
+    margin-bottom: 15px;
 }
 
 main p {
     color: #464e62;
     padding: 0 2em;
+    margin-bottom: 15px;
 }
 
 .line {
     width: 980px;
-    margin: auto;
+    margin: 15px auto;
 }
 
 table {
@@ -181,7 +185,8 @@ td {
 .hobbies p {
     text-transform: uppercase;
     color: #464e62;
-    margin-top: 30px;
+    padding: 0;
+    margin: 30px 0 0 0;
     font-size: 1.5em;
     font-weight: 500;
 }
